@@ -79,4 +79,13 @@ p {
 	top:1px;
 }
 
-        
+/* establishments section */
+#establishments {
+    width: 80%;
+    margin: auto;
+}
+
+.press-logos {
+	width: 15%;
+	margin: 20px 20px 50px;
+}
